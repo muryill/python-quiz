@@ -1,0 +1,22 @@
+[
+    {
+        "text": "İstanbulun yüz ölçümü ne kadardır",
+        "choices": [
+            "4000 km2",
+            "5000 km2",
+            "6000 km2 ",
+            "5500 km2"
+        ],
+        "answer": "5500 km2"
+    },
+    {
+        "text": "türkiyenin başkenti neresidir",
+        "choices": [
+            "ankara",
+            "bursa",
+            "istanbul",
+            "denizli"
+        ],
+        "answer": "ankara"
+    }
+]
